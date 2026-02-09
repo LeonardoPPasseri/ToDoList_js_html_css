@@ -1,0 +1,18 @@
+{
+  "tarefas": [
+    {
+      "tarefa": "Terminar a ToDo List",
+      "feito": false,
+      "id": 4
+    },
+    {
+      "tarefa": "Ler um livro",
+      "id": 6
+    },
+    {
+      "tarefa": "Fazer compras",
+      "id": 7
+    }
+  ],
+  "concluidas": []
+}

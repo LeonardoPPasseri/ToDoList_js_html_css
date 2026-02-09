@@ -3,5 +3,6 @@ Criação de uma ToDoList usando javaScript,html,css e persistencia de dados com
 
 #Como iniciar
 
--Live Server
+-Live Server 
+<br>
 No terminal coloque->   json-server --watch dados.json --port 3000
